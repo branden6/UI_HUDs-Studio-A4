@@ -113,42 +113,20 @@ TextureImporter:
       name: SettingsMenuBG_0
       rect:
         serializedVersion: 2
-        x: 76
-        y: 254
-        width: 375
-        height: 197
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6f4dc56d920f94477a81e6154639edeb
-      internalID: -806565960
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SettingsMenuBG_1
-      rect:
-        serializedVersion: 2
         x: 0
         y: 0
-        width: 421
-        height: 421
+        width: 451
+        height: 451
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 30, y: 30, z: 30, w: 30}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 275b6cf3f9d6a4905a168a13884b8da0
-      internalID: 1194372460
+      spriteID: 62b12093f69e444b6810c1836ff873c7
+      internalID: 1342010233
       vertices: []
       indices: 
       edges: []
@@ -157,7 +135,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 32421cb0bbaeb4be58935dcc05244c25
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -167,8 +145,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SettingsMenuBG_0: -806565960
-      SettingsMenuBG_1: 1194372460
+      SettingsMenuBG_0: 1342010233
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
